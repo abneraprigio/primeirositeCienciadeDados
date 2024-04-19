@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    /* Aplica a imagem */
+    background-image: url(img/backgroud-senai.jpg);
+    /* Nao repetir a imagem */
+    background-repeat: no-repeat;
+    /* Cobrir todo o fundo da tela com a mesma imagem */
+    background-size: cover;
+}
+
+.login{
+    
+}
+
+.login a{
+    /* Deixa o Texto Maiusculo */
+    text-transform: uppercase;
+    /* Tirar o sublinhado */
+    text-decoration: none;
+    font-size: 35px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
